@@ -169,12 +169,16 @@
 
   ![](https://cdn.dribbble.com/users/2139523/screenshots/10788498/media/cb9978c124090b6a19a0d250a34001b9.png)
 
+  <hr>
+
   ### Beauty
   ![](https://cdn.dribbble.com/users/617630/screenshots/11424813/media/5ad9a5fd22e4e268958fef2235e864ab.jpg)
 
   ![](https://cdn.dribbble.com/users/702789/screenshots/7133681/media/3c94d0c57b5670ef0e48a26a2b6e579d.png)
 
   ![](https://cdn.dribbble.com/users/1522015/screenshots/8427898/media/f342fc3cd44a6928bfa324437cdbfa4a.png)
+
+  <hr>
 
   ### Books and Reference
   ![](https://cdn.dribbble.com/users/2742725/screenshots/11444023/media/029b9a23f9d91a8f6401bb0c716dbcea.png)
@@ -185,12 +189,16 @@
 
   ![](https://cdn.dribbble.com/users/957817/screenshots/10682895/media/2d0601e00d6629815c80f7e7337be5dc.png)
 
+  <hr>
+
   ### Business
   ![](https://cdn.dribbble.com/users/1400508/screenshots/11443360/media/fd3e64439d02f6bc18eb92375298bd73.png)
 
   ![](https://cdn.dribbble.com/users/1624253/screenshots/11414220/media/da6a5a38da50b9f6b9c856a2fb027d13.png)
 
   ![](https://cdn.dribbble.com/users/24612/screenshots/11418143/media/633ff999f18cea46f008aa088677d192.png)
+
+  <hr>
 
   ### Comics
   ![](https://cdn.dribbble.com/users/4859/screenshots/5712308/vision_3_4x.png?compress=1&resize=800x600)
@@ -203,11 +211,17 @@
 
   ![](https://cdn.dribbble.com/users/1910002/screenshots/7038519/media/eaeabe5183c0adf367d0c2a95eee7431.jpg)
 
+  <hr>
+
   ### Communications
   ![](https://cdn.dribbble.com/users/4603767/screenshots/11415731/media/d86115ab2009f0ef4fc8d8481323beec.png)
 
+  <hr>
+
   ### Dating
   ![](https://cdn.dribbble.com/users/2508569/screenshots/11433338/media/32dc25af5d6334397565c8b88dfa7f69.png)
+
+  <hr>
 
   ### Education
   ![](https://cdn.dribbble.com/users/2146089/screenshots/11436820/media/6a2806fcd7609150b5ea1da4db433149.png)
@@ -220,6 +234,8 @@
 
   ![](https://cdn.dribbble.com/users/982406/screenshots/11434001/media/6e137dc804b7fad623223ef8ef27ad93.png)
 
+  <hr>
+
   ### Entertainment
   ![](https://cdn.dribbble.com/users/4859/screenshots/11420266/media/d798aa4732f9708950e701a7656ec8a1.png)
 
@@ -229,6 +245,7 @@
 
   [![](imageUrl)](url)
 
+  <hr>
 
   ### Events
   [![](https://cdn.dribbble.com/users/2017098/screenshots/7374953/media/a8ad9999143f13963b52f588df04c8c7.png)](https://dribbble.com/shots/7374953-Live-Perfomances-App/attachments/262344?mode=media)
@@ -238,6 +255,8 @@
   [![](imageUrl)](url)
 
   [![](imageUrl)](url)
+
+  <hr>
 
   ### Finance
   ![](https://cdn.dribbble.com/users/1333371/screenshots/11444807/media/cf61982be23b047cb755d4e6391f4858.jpg)
@@ -256,6 +275,8 @@
 
   ![](https://cdn.dribbble.com/users/2376408/screenshots/11370857/media/9f0306361b582fec3a999d0cd027f8fc.png)
 
+  <hr>
+
   ### Food and Drink
   ![](https://cdn.dribbble.com/users/584216/screenshots/11434381/media/4e74882d06665362bf09c1b1a1b6e2f2.png)
 
@@ -267,6 +288,8 @@
 
   ![](https://cdn.dribbble.com/users/4859/screenshots/8386945/media/800a18bb3c9d370fb514b1ac8cc9e245.png)
 
+  <hr>
+
   ### Health and Fitness
   ![](https://cdn.dribbble.com/users/110372/screenshots/11433553/media/9b94cfa1c261a114a51437f2ed8496d7.png)
 
@@ -275,6 +298,8 @@
   [![](imageUrl)](url)
 
   [![](imageUrl)](url)
+
+  <hr>
 
   ### House and Home
   ![](https://cdn.dribbble.com/users/915817/screenshots/11444184/media/f03fef5b57320a2f38432220430391d4.png)
@@ -285,6 +310,8 @@
 
   ![](https://cdn.dribbble.com/users/2340587/screenshots/11425704/media/338a6afff57029e7c2663e199bc804b6.png)
 
+  <hr>
+
   ### Libraries and Demo
   [![](imageUrl)](url)
 
@@ -293,6 +320,8 @@
   [![](imageUrl)](url)
 
   [![](imageUrl)](url)
+
+  <hr>
 
   ### Lifestyle
   ![](https://cdn.dribbble.com/users/1454669/screenshots/11424463/media/a6230aa7aea2ab2a21c9062a4c2179fd.png)
@@ -303,6 +332,8 @@
 
   [![](imageUrl)](url)
 
+  <hr>
+
   ### Maps and Navigation
   [![](https://cdn.dribbble.com/users/2399102/screenshots/6645932/google-map-redesign_v2__2_.jpg)](https://dribbble.com/shots/6645932-Google-Map-App-Redesign/attachments)
 
@@ -312,6 +343,8 @@
 
   [![](imageUrl)](url)
 
+  <hr>
+
   ### Medical
   [![](https://cdn.dribbble.com/users/2566888/screenshots/10765598/media/d8e7b74145e2422e4dd53431403259ae.png)](https://dribbble.com/shots/10765598-GO-CORONA-Medical-App-Concept/attachments/2434179?mode=media)
 
@@ -320,6 +353,8 @@
   [![](https://cdn.dribbble.com/users/2959458/screenshots/11179642/media/f0de26cca199ac49bd953e288b84afcb.jpg)](https://dribbble.com/shots/11179642-Medical-App-Concept-COVID19/attachments/2783811?mode=media)  
 
   [![](https://cdn.dribbble.com/users/758684/screenshots/10769817/media/f4576ba0fb4709ed57b95c3dcffde922.jpg)](https://dribbble.com/shots/10769817/attachments/2437476?mode=media)
+
+  <hr>
 
   ### Music and Audio
   ![](https://cdn.dribbble.com/users/1343196/screenshots/11442028/media/6363208a7677dafaa23bc695e42b7936.png)
@@ -332,6 +367,8 @@
 
   ![](https://cdn.dribbble.com/users/5114364/screenshots/11427679/media/f347704bee8f13cc272e44281a98992d.jpg)
 
+  <hr>
+
   ### News and Magazines
   [![](imageUrl)](url)
 
@@ -340,6 +377,8 @@
   [![](imageUrl)](url)
 
   [![](imageUrl)](url)
+
+  <hr>
 
   ### Parenting
   [![](imageUrl)](url)
@@ -350,6 +389,8 @@
 
   [![](imageUrl)](url)
 
+  <hr>
+
   ### Personalization
   [![](imageUrl)](url)
 
@@ -358,6 +399,8 @@
   [![](imageUrl)](url)
 
   [![](imageUrl)](url)
+
+  <hr>
 
   ### Photography
   [![](imageUrl)](url)
@@ -368,6 +411,8 @@
 
   [![](imageUrl)](url)
 
+  <hr>
+
   ### Productivity
   ![](https://cdn.dribbble.com/users/1788965/screenshots/11417389/media/ed3090853fa3e03375212e27eef63243.png)
 
@@ -376,6 +421,8 @@
   [![](imageUrl)](url)
 
   [![](imageUrl)](url)
+
+  <hr>
 
   ### Shopping
   ![Flower app](https://cdn.dribbble.com/users/2461751/screenshots/11431532/media/ea8130287e3561e0325788b545c81c02.png "Flower App")
@@ -398,6 +445,8 @@
 
   ![](https://cdn.dribbble.com/users/4107199/screenshots/11426999/media/5fa1a407f7dc5a95b52e51af28af7fe0.png)
 
+  <hr>
+
   ### Social
   ![](https://cdn.dribbble.com/users/310943/screenshots/11416015/media/10f64ed22538ab13cfbac00070c044d6.png)
 
@@ -406,6 +455,8 @@
   [![](imageUrl)](url)
 
   [![](imageUrl)](url)
+
+  <hr>
 
   ### Sports
   [![](imageUrl)](url)
@@ -416,6 +467,8 @@
 
   [![](imageUrl)](url)
 
+  <hr>
+
   ### Tools
   ![](https://cdn.dribbble.com/users/4110200/screenshots/11416582/media/0425353703c34881c4e3dc46d521bbaf.png)
 
@@ -424,6 +477,8 @@
   ![](https://cdn.dribbble.com/users/1518948/screenshots/11416247/media/2520fe01169356b6d09d1492aca11283.jpg)
 
   [![](imageUrl)](url)
+
+  <hr>
 
   ### Travel and Local
   ![](https://cdn.dribbble.com/users/915817/screenshots/11424144/media/61d8d07315209af454e9f493ad73817e.png)
@@ -434,6 +489,8 @@
 
   [![](imageUrl)](url)
 
+  <hr>
+
   ### Video Players and Editors
   [![](https://cdn.dribbble.com/users/2399102/screenshots/6682768/video-editing-app_4x.jpg?compress=1&resize=800x600)](https://dribbble.com/shots/6682768-Video-Editing-App/attachments)
 
@@ -443,6 +500,8 @@
 
   [![](imageUrl)](url)
 
+  <hr>
+
   ### Weather
   [![](https://cdn.dribbble.com/users/498270/screenshots/11435940/media/e07211b33eaf38547b014277c184614f.jpg)](http://www.google.com)
 
@@ -451,6 +510,8 @@
   [![](https://cdn.dribbble.com/users/1852987/screenshots/10179352/media/f7047cab0407a96ce62093e15c6ebde6.png)](https://dribbble.com/shots/10179352-Application-to-plan-your-trips/attachments/2116907?mode=media)
 
   [![](https://cdn.dribbble.com/users/702789/screenshots/6932038/weather_-_shot_4x.png?compress=1&resize=800x600)](https://dribbble.com/shots/6932038-Mobile-application-Weather-Forecast/attachments)
+
+  <hr>
 
 ## Contributors
 
@@ -464,3 +525,5 @@ In lieu of a formal styleguide, take care to maintain the existing style of this
 
 ## Disclaimer
 All the above works belong to their respective creators and owners. I don't take ownership of any of these designs nor aim to make monetary benefit for it.
+
+<hr>
