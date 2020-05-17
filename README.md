@@ -1,5 +1,7 @@
 # UI-Templates
-Design inspirations for app developers
+
+<img src="logo.png" width="100%"/>
+<p align="center">Design inspirations for app developers</p>
 
 <p align="center">
     <a href="">
@@ -9,6 +11,8 @@ Design inspirations for app developers
 </p>
 
 ## Categories:
+(Click on Category name to directly skip to that Category)<br>
+
 <table class="nice-table">
     <tbody>
       <tr>
@@ -150,8 +154,6 @@ Design inspirations for app developers
   ### Art and design
   ![](https://cdn.dribbble.com/users/282462/screenshots/11421000/media/ca75af14d0bdc1804250896bee08200c.png)
 
-  ![](https://cdn.dribbble.com/users/2039805/screenshots/11443440/media/1fbb51462c10de7c6de8cf72549a2231.jpg)
-
   ### Auto and Vehicles
   ![](https://cdn.dribbble.com/users/4563983/screenshots/11432511/media/c5e75a0f318d4d5fe1dccd08edb5e9d6.png)
 
@@ -254,6 +256,10 @@ Design inspirations for app developers
 
   ![](https://cdn.dribbble.com/users/4801636/screenshots/11426683/media/265f480dbd933dcf9cb7d05dffd688f7.png)
 
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
   ### House and Home
   ![](https://cdn.dribbble.com/users/915817/screenshots/11444184/media/f03fef5b57320a2f38432220430391d4.png)
 
@@ -264,10 +270,41 @@ Design inspirations for app developers
   ![](https://cdn.dribbble.com/users/2340587/screenshots/11425704/media/338a6afff57029e7c2663e199bc804b6.png)
 
   ### Libraries and Demo
+  [![](imageUrl)](url)
+
+  [![](https://cdn.dribbble.com/users/1863078/screenshots/10172217/media/f251e977b6e65299adfc0197fbe1308c.png)](https://dribbble.com/shots/10172217-SpotFinder-UI-elements)
+
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
   ### Lifestyle
   ![](https://cdn.dribbble.com/users/1454669/screenshots/11424463/media/a6230aa7aea2ab2a21c9062a4c2179fd.png)
+
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
   ### Maps and Navigation
+  [![](https://cdn.dribbble.com/users/2399102/screenshots/6645932/google-map-redesign_v2__2_.jpg)](https://dribbble.com/shots/6645932-Google-Map-App-Redesign/attachments)
+
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
   ### Medical
+  [![](https://cdn.dribbble.com/users/2566888/screenshots/10765598/media/d8e7b74145e2422e4dd53431403259ae.png)](https://dribbble.com/shots/10765598-GO-CORONA-Medical-App-Concept/attachments/2434179?mode=media)
+
+  [![](imhttps://cdn.dribbble.com/users/1064312/screenshots/11015463/media/c8d7cc7f579df1d99205d9c11d6f03a9.pngageUrl)](https://dribbble.com/shots/11015463-Covid-19-App-Free/attachments/2609400?mode=media)
+
+  [![](https://cdn.dribbble.com/users/2959458/screenshots/11179642/media/f0de26cca199ac49bd953e288b84afcb.jpg)](https://dribbble.com/shots/11179642-Medical-App-Concept-COVID19/attachments/2783811?mode=media)  
+
+  [![](https://cdn.dribbble.com/users/758684/screenshots/10769817/media/f4576ba0fb4709ed57b95c3dcffde922.jpg)](https://dribbble.com/shots/10769817/attachments/2437476?mode=media)
+
   ### Music and Audio
   ![](https://cdn.dribbble.com/users/1343196/screenshots/11442028/media/6363208a7677dafaa23bc695e42b7936.png)
 
@@ -280,11 +317,49 @@ Design inspirations for app developers
   ![](https://cdn.dribbble.com/users/5114364/screenshots/11427679/media/f347704bee8f13cc272e44281a98992d.jpg)
 
   ### News and Magazines
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
   ### Parenting
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
   ### Personalization
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
   ### Photography
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
   ### Productivity
   ![](https://cdn.dribbble.com/users/1788965/screenshots/11417389/media/ed3090853fa3e03375212e27eef63243.png)
+
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
 
   ### Shopping
   ![Flower app](https://cdn.dribbble.com/users/2461751/screenshots/11431532/media/ea8130287e3561e0325788b545c81c02.png "Flower App")
@@ -312,7 +387,19 @@ Design inspirations for app developers
 
   ![](https://cdn.dribbble.com/users/4271438/screenshots/11437682/media/d2e2ecf1e1ccbe68afb285b8570346d7.png)
 
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
   ### Sports
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
   ### Tools
   ![](https://cdn.dribbble.com/users/4110200/screenshots/11416582/media/0425353703c34881c4e3dc46d521bbaf.png)
 
@@ -320,15 +407,42 @@ Design inspirations for app developers
 
   ![](https://cdn.dribbble.com/users/1518948/screenshots/11416247/media/2520fe01169356b6d09d1492aca11283.jpg)
 
+  [![](imageUrl)](url)
+
   ### Travel and Local
   ![](https://cdn.dribbble.com/users/915817/screenshots/11424144/media/61d8d07315209af454e9f493ad73817e.png)
 
   ![](https://cdn.dribbble.com/users/380831/screenshots/11433770/media/00fb36b882fb175e72b4ceb1c0fc3e01.png)
+
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
   ### Video Players and Editors
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
 
   ### Weather
-  ![](https://cdn.dribbble.com/users/498270/screenshots/11435940/media/e07211b33eaf38547b014277c184614f.jpg)
+  [![](https://cdn.dribbble.com/users/498270/screenshots/11435940/media/e07211b33eaf38547b014277c184614f.jpg)](http://www.google.com)
 
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
+
+## Contributing
+In lieu of a formal styleguide, take care to maintain the existing style of this list. For details on how to contribute, see [Contributing](link to contribute.md)
 
 ## Sources
 * [Dribbble](https://dribbble.com/)
+* [Behance](https://www.behance.net/)
+
+## Disclaimer
+All the above works belong to their respective creators and owners. I don't take ownership of any of these designs nor aim to make monetary benefit for it.
