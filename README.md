@@ -1,6 +1,5 @@
-# UI-Templates
-
 <img src="logo.png" width="100%"/>
+
 <p align="center">Design inspirations for app developers</p>
 
 <p align="center">
@@ -9,6 +8,8 @@
         <img alt="Say thanks" src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg"/>
     </a> 
 </p>
+
+<hr>
 
 ## Categories:
 (Click on Category name to directly skip to that Category)<br>
@@ -152,8 +153,12 @@
 
   **Source:** [Google Play Console help](https://support.google.com/googleplay/android-developer/answer/113475?hl=en)
 
+  <hr>
+
   ### Art and design
   ![](https://cdn.dribbble.com/users/282462/screenshots/11421000/media/ca75af14d0bdc1804250896bee08200c.png)
+
+  <hr>
 
   ### Auto and Vehicles
   ![](https://cdn.dribbble.com/users/4563983/screenshots/11432511/media/c5e75a0f318d4d5fe1dccd08edb5e9d6.png)
