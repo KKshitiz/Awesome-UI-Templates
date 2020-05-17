@@ -150,6 +150,7 @@
     </tbody>
   </table>
 
+  **Source:** [Google Play Console help](https://support.google.com/googleplay/android-developer/answer/113475?hl=en)
 
   ### Art and design
   ![](https://cdn.dribbble.com/users/282462/screenshots/11421000/media/ca75af14d0bdc1804250896bee08200c.png)
@@ -221,7 +222,17 @@
 
   ![](https://cdn.dribbble.com/users/267263/screenshots/11413278/media/4c271aef30a6dba04875828432dda1d3.png)
 
+  [![](imageUrl)](url)
+
+
   ### Events
+  [![](https://cdn.dribbble.com/users/2017098/screenshots/7374953/media/a8ad9999143f13963b52f588df04c8c7.png)](https://dribbble.com/shots/7374953-Live-Perfomances-App/attachments/262344?mode=media)
+
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
+
+  [![](imageUrl)](url)
 
   ### Finance
   ![](https://cdn.dribbble.com/users/1333371/screenshots/11444807/media/cf61982be23b047cb755d4e6391f4858.jpg)
@@ -419,22 +430,24 @@
   [![](imageUrl)](url)
 
   ### Video Players and Editors
-  [![](imageUrl)](url)
+  [![](https://cdn.dribbble.com/users/2399102/screenshots/6682768/video-editing-app_4x.jpg?compress=1&resize=800x600)](https://dribbble.com/shots/6682768-Video-Editing-App/attachments)
 
-  [![](imageUrl)](url)
+  [![](https://cdn.dribbble.com/users/103962/screenshots/5540105/slidelab_1_4x.png?compress=1&resize=800x600)](https://dribbble.com/shots/5540105-SlideLab-The-new-Video-and-Photo-Editor/attachments)
 
-  [![](imageUrl)](url)
+  [![](https://cdn.dribbble.com/users/31232/screenshots/7076568/media/d5d40845e69aad1018a97534a6ef58d3.png)](https://dribbble.com/shots/7076568/attachments/77980?mode=media)
 
   [![](imageUrl)](url)
 
   ### Weather
   [![](https://cdn.dribbble.com/users/498270/screenshots/11435940/media/e07211b33eaf38547b014277c184614f.jpg)](http://www.google.com)
 
-  [![](imageUrl)](url)
+  [![](https://cdn.dribbble.com/users/3681220/screenshots/7119800/media/e6b22b74932fe92606ad502441a180e0.png)](uhttps://dribbble.com/shots/7119800-Foxy-weather/attachments/122785?mode=medial)
 
-  [![](imageUrl)](url)
+  [![](https://cdn.dribbble.com/users/1852987/screenshots/10179352/media/f7047cab0407a96ce62093e15c6ebde6.png)](https://dribbble.com/shots/10179352-Application-to-plan-your-trips/attachments/2116907?mode=media)
 
-  [![](imageUrl)](url)
+  [![](https://cdn.dribbble.com/users/702789/screenshots/6932038/weather_-_shot_4x.png?compress=1&resize=800x600)](https://dribbble.com/shots/6932038-Mobile-application-Weather-Forecast/attachments)
+
+## Contributors
 
 
 ## Contributing
