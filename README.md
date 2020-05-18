@@ -14,8 +14,8 @@
 
 <hr>
 
-## Categories:
-(Click on Category name to directly skip to that Category)<br>
+## Categories
+Click on Category name to directly skip to that Category<br>
 
 <table class="nice-table">
     <tbody>
@@ -157,7 +157,33 @@
   **Source:** [Google Play Console help](https://support.google.com/googleplay/android-developer/answer/113475?hl=en)
 
   <hr>
-
+  
+  ## UX/UI Resources
+  The links for awesome UX/Ui resources at one place
+  <br>
+  
+  | INSPIRATION | CREATIVE | TOOLS | PATTERNS | ILLUSTATIONS | ICONS |
+  | :---------: | :------: | :---: | :------: | :----------: | :---: |
+  | [Mobbin](https://mobbin.design/) | [Behance](https://www.behance.net/) | [Frame Box](http://framebox.org/) | [UI Patterns](https://ui-patterns.com/) | [UnDraw](https://undraw.co/) | [Streamline 3.0](https://streamlineicons.com/) |
+  | [Mobile Patterns](https://www.mobile-patterns.com/) | [Dribble](https://dribbble.com/) | [Wireframe](https://wireframe.cc/) | [Design Snips](http://designsnips.com/) | [DrawKit](https://www.drawkit.io/) | [Font Awesome](https://fontawesome.com/) |
+  | [Pttrns](https://pttrns.com/) | [Site Inspire](https://www.siteinspire.com/) | [Creately](https://creately.com/) | [UI Garage](https://uigarage.net/) | [Absurd Illustrations](https://absurd.design/) | [Freepik](https://www.freepik.com/) |
+  | [UI Movement](https://uimovement.com/) | [Creative Bloq](https://www.creativebloq.com/) | [Free Mind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) | [Product Design Tips](https://productdesign.tips/) | [Many Pixels](https://www.manypixels.co/) | [FlatIcon](https://www.flaticon.com/) |
+  | [Collect Ui](https://collectui.com/) | [Lapa Ninja](https://www.lapa.ninja/) | [Fontself](https://www.fontself.com/) | [Facebook Design](https://facebook.design/) | [Humaaans](https://www.humaaans.com/) | [Iconmonstr](https://iconmonstr.com/) |
+  | [UpLabs](https://www.uplabs.com/) | [Beautiful Pixels](https://beautifulpixels.com/) | [Invision Studio](https://www.invisionapp.com/studio) | [UIE](https://www.uie.com/) | [IRA Design](https://iradesign.io/) | [Fontello](http://fontello.com/) |
+  | [Learn UI](https://learnui.design/) | [Design Shack](https://designshack.net/) | [CleanMock](https://cleanmock.com/) | [UI Sources](https://www.uisources.com/) | [Interfacer](https://interfacer.xyz/) | [Icons8](https://icons8.com/) |
+  | [Neede](https://neede.co/#/) | [Awwwards](https://www.awwwards.com/) | [Photopea](https://www.photopea.com/) | [Paaatterns](https://products.ls.graphics/paaatterns/) | [Freebie Supply](https://freebiesupply.com/) | [Iconshock](https://www.iconshock.com/) |
+  
+  <br>
+  
+  | COLOR | UI GRADIENTS | FONT TOOLS | STOCK IMAGES | UX RESEARCH | OTHERS |
+  | :---: | :-------: | :----------: | :--------: | :----------: | :---------: |
+  | [Coolors](https://coolors.co/) | [Grabient](https://www.grabient.com/) | [FontArk](https://fontark.net/farkwp/) | [Pixabay](https://pixabay.com/) | [Keep It Usable](https://www.keepitusable.com/) | [Design Principles](http://learndesignprinciples.com/) |
+  | [Picular](https://picular.co/) | [UI Gradients](https://uigradients.com/) | [Calligraphr](https://www.calligraphr.com/en/) | [Stocksnap](https://stocksnap.io/) | [UX Myths](https://uxmyths.com/) | [Learn Colors](https://www.canva.com/colors/) |
+  | [Muzli Colors](https://colors.muz.li/) | [CoolHue](https://webkul.github.io/coolhue/) | [BirdFont](https://birdfont.org/) | [Burst](https://burst.shopify.com/) | [UX Movement](https://uxmovement.com/) | [Typography Handbook](https://typographyhandbook.com/) |
+  | [Colorable](https://colorable.jxnblk.com/) | [Granim.js](https://sarcadass.github.io/granim.js/) | [FontForge](https://fontforge.org/en-US/) | [Pexels](https://www.pexels.com/) | [UX Matters](https://www.uxmatters.com/) | [Material Design](https://material.io/design) | 
+  | [Flat Ui Colors](https://flatuicolors.com/) | [CSS Gradient](https://cssgradient.io/) | [FontStruct](https://fontstruct.com/) | [Splashbase](http://www.splashbase.co/) | [UX Stack Exchange](https://ux.stackexchange.com/) | [HI Guidelines](https://developer.apple.com/design/human-interface-guidelines/) | 
+  | [Color Leap](https://colorleap.app/home) | [Web Gradients](https://webgradients.com/) | [Glyphr Studio](http://www.glyphrstudio.com/) | [Unsplash](https://unsplash.com/) | [Laws of UX](https://lawsofux.com/) | [HeyDesigner](https://heydesigner.com/) |
+  
   ## Art and design
   
   <p float="left">
