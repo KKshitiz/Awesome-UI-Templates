@@ -1,14 +1,20 @@
 <img src="logo.png" width="100%"/>
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 
 <p align="center">Design inspirations for app developers</p>
 
-<p align="center">
-    <a href="">
-    <a href="https://saythanks.io/to/skilite007@gmail.com" target=_blank>
-        <img alt="Say thanks" src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg"/>
+
+<p float="left">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+</p>
+
+<p float="left">
+  <a href="https://saythanks.io/to/skilite007@gmail.com" target=_blank>
+        <img alt="Say thanks" src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" float="left"/>
     </a> 
 </p>
 
