@@ -13,6 +13,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "RashakDude",
+      "name": "Rajat Agrawal",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/45696541?v=4",
+      "profile": "https://rashakdude.github.io/portfolio/",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
