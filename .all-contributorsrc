@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "RashakDude",
+      "name": "Rajat Agrawal",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/45696541?v=4",
+      "profile": "https://www.linkedin.com/in/rajat-agrawal-1592ba171/",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "UI-Templates",
+  "projectOwner": "KKshitiz",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
