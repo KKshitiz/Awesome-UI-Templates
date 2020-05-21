@@ -1,14 +1,20 @@
 <img src="logo.png" width="100%"/>
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 
 <p align="center">Design inspirations for app developers</p>
 
-<p align="center">
-    <a href="">
-    <a href="https://saythanks.io/to/skilite007@gmail.com" target=_blank>
-        <img alt="Say thanks" src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg"/>
+
+<p float="left">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+</p>
+
+<p float="left">
+  <a href="https://saythanks.io/to/skilite007@gmail.com" target=_blank>
+        <img alt="Say thanks" src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" float="left"/>
     </a> 
 </p>
 
@@ -562,6 +568,7 @@ Click on Category name to directly skip to that Category<br>
 <table>
   <tr>
     <td align="center"><a href="http://academicstud.wordpress.com"><img src="https://avatars3.githubusercontent.com/u/37079141?v=4" width="100px;" alt=""/><br /><sub><b>Kshitiz Kamal</b></sub></a><br /><a href="#ideas-KKshitiz" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://rashakdude.github.io/portfolio/"><img src="https://avatars3.githubusercontent.com/u/45696541?v=4" width="100px;" alt=""/><br /><sub><b>Rajat Agrawal</b></sub></a><br /><a href="https://github.com/KKshitiz/UI-Templates/issues?q=author%3ARashakDude" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
