@@ -320,6 +320,8 @@ Click on Category name to directly skip to that Category<br>
   
   <p float="left">
   <img src="https://cdn.dribbble.com/users/2017098/screenshots/7374953/media/a8ad9999143f13963b52f588df04c8c7.png" height="49%" width="49%">
+  <a href="https://dribbble.com/shots/6529420-FootPlace-Schedule-New-Event/attachments">
+  <img src="https://cdn.dribbble.com/users/918572/screenshots/6529420/footbollchik_4x.png?compress=1&resize=800x600" height="49%" width="49%"></a>
   </p>
 
   <hr>
@@ -446,17 +448,87 @@ Click on Category name to directly skip to that Category<br>
 
   ## News and Magazines
 
+  <p float="left">
+  <a href="https://dribbble.com/shots/9513371-Gator-mobile-news-app/attachments/1539042?mode=media">
+  <img src="https://cdn.dribbble.com/users/20409/screenshots/9513371/media/60382bda3268edbfcc6c8248d7986089.jpg" height="49%" width="49%"/>
+  <a href="https://dribbble.com/shots/11298372-Newspaper-App/attachments/2908112?mode=media">
+  <img src="https://cdn.dribbble.com/users/957817/screenshots/11298372/media/23715522f447547099449c901aafc8dc.png" height="49%" width="49%"/>
+  </a>
+  </p>
+
+  <p float="left">
+  <a href="https://dribbble.com/shots/11107575-magazine-app/attachments/2707258?mode=media">
+  <img src="https://cdn.dribbble.com/users/1998993/screenshots/11107575/media/200decdb1ef01360fd296b41090bbf84.png" height="49%" width="49%"/>
+  </a>
+  <a href="url">
+  <img src="url" height="49%" width="49%"/>
+  </a>
+  </p>
+
   <hr>
 
   ## Parenting
+  <p float="left">
+  <a href="url">
+  <img src="url" height="49%" width="49%"/>
+  </a>
+  <a href="url">
+  <img src="url" height="49%" width="49%"/>
+  </a>
+  </p>
+
+  <p float="left">
+  <a href="url">
+  <img src="url" height="49%" width="49%"/>
+  </a>
+  <a href="url">
+  <img src="url" height="49%" width="49%"/>
+  </a>
+  </p>
 
   <hr>
 
   ## Personalization
 
+  <p float="left">
+  <a href="url">
+  <img src="url" height="49%" width="49%"/>
+  </a>
+  <a href="url">
+  <img src="url" height="49%" width="49%"/>
+  </a>
+  </p>
+
+  <p float="left">
+  <a href="url">
+  <img src="url" height="49%" width="49%"/>
+  </a>
+  <a href="url">
+  <img src="url" height="49%" width="49%"/>
+  </a>
+  </p>
+
   <hr>
 
   ## Photography
+
+  <p float="left">
+  <a href="https://dribbble.com/shots/9021000-Photography-Discovering-App-Design/attachments/1144243?mode=media">
+  <img src="https://cdn.dribbble.com/users/4189231/screenshots/9021000/media/ef03129a2448d56583075ba8e1fe79c0.png" height="49%" width="49%"/>
+  </a>
+  <a href="https://dribbble.com/shots/8572922-Social-network-for-photographers-Mobile-App/attachments/840044?mode=media">
+  <img src="https://cdn.dribbble.com/users/4189231/screenshots/8572922/media/b82307e05b0c55c053a03a1c8ec12bf1.jpg" height="49%" width="49%"/>
+  </a>
+  </p>
+
+  <p float="left">
+  <a href="https://dribbble.com/shots/7016896-Blue-Photography-Collection/attachments/19115?mode=media">
+  <img src="https://cdn.dribbble.com/users/2083577/screenshots/7016896/media/b41eb941b345e7eed2c905458c44850c.png" height="49%" width="49%"/>
+  </a>
+  <a href="https://dribbble.com/shots/6218920-Profile-Album-Camera/attachments">
+  <img src="https://cdn.dribbble.com/users/1615730/screenshots/6218920/camera_2_4x.png?compress=1&resize=800x600" height="49%" width="49%"/>
+  </a>
+  </p>
 
   <hr>
 
@@ -465,6 +537,16 @@ Click on Category name to directly skip to that Category<br>
   <p float="left">
   <img src="https://cdn.dribbble.com/users/1788965/screenshots/11417389/media/ed3090853fa3e03375212e27eef63243.png" height="49%" width="49%">
   </p>
+
+  <p float="left">
+  <a href="url">
+  <img src="url" height="49%" width="49%"/>
+  </a>
+  <a href="url">
+  <img src="url" height="49%" width="49%"/>
+  </a>
+  </p>
+
 
   <hr>
 
@@ -507,6 +589,24 @@ Click on Category name to directly skip to that Category<br>
   <hr>
 
   ## Sports
+
+  <p float="left">
+  <a href="https://dribbble.com/shots/9913251-Sports-App-Mobile-App/attachments/1947286?mode=media">
+  <img src="https://cdn.dribbble.com/users/4189231/screenshots/9913251/media/fb7855c4620c0202a91d9c53d7b93ead.jpg" height="49%" width="49%"/>
+  </a>
+  <a href="https://dribbble.com/shots/7902496/attachments/499953?mode=media">
+  <img src="https://cdn.dribbble.com/users/1371502/screenshots/7902496/media/b9164541fe165246afffc6ef0e700422.png" height="49%" width="49%"/>
+  </a>
+  </p>
+
+  <p float="left">
+  <a href="https://dribbble.com/shots/6228690-Team-management-iOS-App/attachments">
+  <img src="https://cdn.dribbble.com/users/239075/screenshots/6228690/map_and_schedule_by_iftikhar_shaikh_4x.png?compress=1&resize=800x600" height="49%" width="49%"/>
+  </a>
+  <a href="https://dribbble.com/shots/6923463-Sports-News-App/attachments">
+  <img src="https://cdn.dribbble.com/users/1146422/screenshots/6923463/shot_for_dribbble_4x.png?compress=1&resize=800x600" height="49%" width="49%"/>
+  </a>
+  </p>
 
   <hr>
 
