@@ -474,8 +474,8 @@ Click on Category name to directly skip to that Category<br>
   <a href="https://dribbble.com/shots/11107575-magazine-app/attachments/2707258?mode=media">
   <img src="https://cdn.dribbble.com/users/1998993/screenshots/11107575/media/200decdb1ef01360fd296b41090bbf84.png" height="49%" width="49%"/>
   </a>
-  <a href="url">
-  <img src="url" height="49%" width="49%"/>
+  <a href="https://dribbble.com/shots/7229348-Newspaper/attachments/213346?mode=media">
+  <img src="https://cdn.dribbble.com/users/851372/screenshots/7229348/media/c923c6d61b4b3913cd5da3b8c7cf3e64.png" height="49%" width="49%"/>
   </a>
   </p>
 
@@ -483,24 +483,13 @@ Click on Category name to directly skip to that Category<br>
 
   ## Parenting
   <p float="left">
-  <a href="url">
-  <img src="url" height="49%" width="49%"/>
+  <a href="https://dribbble.com/shots/2036651-Kids2School-Apps-Concept">
+  <img src="https://cdn.dribbble.com/users/167041/screenshots/2036651/htc_one_mockup.png" height="49%" width="49%"/>
   </a>
-  <a href="url">
-  <img src="url" height="49%" width="49%"/>
-  </a>
-  </p>
-
-  <p float="left">
-  <a href="url">
-  <img src="url" height="49%" width="49%"/>
-  </a>
-  <a href="url">
-  <img src="url" height="49%" width="49%"/>
+  <a href="https://dribbble.com/shots/5647159-Family5-app/attachments">
+  <img src="https://cdn.dribbble.com/users/31642/screenshots/5647159/family-five.jpg" height="49%" width="49%"/>
   </a>
   </p>
-
-  <hr>
 
   ## Personalization
   
@@ -511,20 +500,11 @@ Click on Category name to directly skip to that Category<br>
   
 
   <p float="left">
-  <a href="url">
-  <img src="url" height="49%" width="49%"/>
+  <a href="https://dribbble.com/shots/4343539-Concept-Design">
+  <img src="https://cdn.dribbble.com/users/592548/screenshots/4343539/img_3496.png" height="49%" width="49%"/>
   </a>
-  <a href="url">
-  <img src="url" height="49%" width="49%"/>
-  </a>
-  </p>
-
-  <p float="left">
-  <a href="url">
-  <img src="url" height="49%" width="49%"/>
-  </a>
-  <a href="url">
-  <img src="url" height="49%" width="49%"/>
+  <a href="https://dribbble.com/shots/10374763-Live-Wallpaper-Gallery-UI-Design">
+  <img src="https://cdn.dribbble.com/users/607129/screenshots/10374763/media/c57654bd46f714446a93b63927c27df2.png" height="49%" width="49%"/>
   </a>
   </p>
 
@@ -709,13 +689,22 @@ Click on Category name to directly skip to that Category<br>
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 ## Contributing
-In lieu of a formal styleguide, take care to maintain the existing style of this list. For details on how to contribute, see [Contributing](link to contribute.md)
+In lieu of a formal styleguide, take care to maintain the existing style of this list.
+
+* Fork this repository.
+* Add designs/links (Don't forget to backlink to the author's work)
+* Comment on Issue or Pull Request, asking @all-contributors to add a contributor:
+  * @all-contributors please add \<username> for \<contributions>
+  * \<contribution>: See the [Emoji Key (Contribution Types Reference)](https://allcontributors.org/docs/en/emoji-key) for a list of valid contribution types.
+  
 
 ## Sources
 * [Dribbble](https://dribbble.com/)
 * [Behance](https://www.behance.net/)
 
 ## Disclaimer
-All the above works belong to their respective creators and owners. I don't take ownership of any of these designs nor aim to make monetary benefit from it.
+All the above works belong to their respective creators and owners. I don't take ownership of any of these designs nor aim to make monetary benefit from it. <br>If you are the author/know the author, request for credits and we'll be more than happy to link to your original work.
+
+Cheers!
 
 <hr>
