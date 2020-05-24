@@ -544,16 +544,6 @@ Click on Category name to directly skip to that Category<br>
   <img src="https://cdn.dribbble.com/users/3429790/screenshots/11483935/media/849f6ddc33127d76171e468d709cde2b.png" height="49%" width=49%">
   </p>
 
-  <p float="left">
-  <a href="url">
-  <img src="url" height="49%" width="49%"/>
-  </a>
-  <a href="url">
-  <img src="url" height="49%" width="49%"/>
-  </a>
-  </p>
-
-
   <hr>
 
   ## Shopping
