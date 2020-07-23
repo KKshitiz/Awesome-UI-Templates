@@ -1,26 +1,25 @@
 <img src="logo.png" width="100%"/>
 
-
 <p align="center">Design inspirations for app developers</p>
 
-
-<p float="left">
+<span>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-</p>
+</span>
 
-<p float="left">
+<span>
   <a href="https://saythanks.io/to/skilite007@gmail.com" target=_blank>
         <img alt="Say thanks" src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" float="left"/>
     </a> 
-</p>
+</span>
 
 <hr>
 
 ## Categories
+
 Click on Category name to directly skip to that Category<br>
 
 <table class="nice-table">
@@ -160,7 +159,7 @@ Click on Category name to directly skip to that Category<br>
     </tbody>
   </table>
 
-  **Source:** [Google Play Console help](https://support.google.com/googleplay/android-developer/answer/113475?hl=en)
+**Source:** [Google Play Console help](https://support.google.com/googleplay/android-developer/answer/113475?hl=en)
 
   <hr>
   
@@ -198,8 +197,8 @@ Click on Category name to directly skip to that Category<br>
   </p>
   <hr>
 
-  ## Auto and Vehicles
-  
+## Auto and Vehicles
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/4563983/screenshots/11432511/media/c5e75a0f318d4d5fe1dccd08edb5e9d6.png" height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/4859/screenshots/6561370/car-market_dr_4x.png" height="49%" width="49%">
@@ -212,8 +211,8 @@ Click on Category name to directly skip to that Category<br>
 
   <hr>
 
-  ## Beauty
-  
+## Beauty
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/617630/screenshots/11424813/media/5ad9a5fd22e4e268958fef2235e864ab.jpg" height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/702789/screenshots/7133681/media/3c94d0c57b5670ef0e48a26a2b6e579d.png" height="49%" width="49%">
@@ -226,8 +225,8 @@ Click on Category name to directly skip to that Category<br>
 
   <hr>
 
-  ## Books and Reference
-  
+## Books and Reference
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/2742725/screenshots/11444023/media/029b9a23f9d91a8f6401bb0c716dbcea.png" height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/970912/screenshots/9532828/media/f6e5b4010a95ad9c05bd3532c266a91c.png" height="49%" width="49%">
@@ -240,8 +239,8 @@ Click on Category name to directly skip to that Category<br>
   
   <hr>
 
-  ## Business
-  
+## Business
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/1400508/screenshots/11443360/media/fd3e64439d02f6bc18eb92375298bd73.png" height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/1624253/screenshots/11414220/media/da6a5a38da50b9f6b9c856a2fb027d13.png" height="49%" width="49%">
@@ -254,8 +253,8 @@ Click on Category name to directly skip to that Category<br>
 
   <hr>
 
-  ## Comics
-  
+## Comics
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/4859/screenshots/5712308/vision_3_4x.png" height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/2268952/screenshots/7589581/media/5ac7159b5da258499fec7a3a9221c202.png" height="49%" width="49%">
@@ -273,8 +272,8 @@ Click on Category name to directly skip to that Category<br>
 
   <hr>
 
-  ## Communications
-  
+## Communications
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/4603767/screenshots/11415731/media/d86115ab2009f0ef4fc8d8481323beec.png" height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/5031392/screenshots/11029900/media/923107b955c4c79d3a6cdb8d1d6bd96d.png" height="49%" width="49%">
@@ -282,8 +281,8 @@ Click on Category name to directly skip to that Category<br>
   
   <hr>
 
-  ## Dating
-  
+## Dating
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/2508569/screenshots/11433338/media/32dc25af5d6334397565c8b88dfa7f69.png" height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/1603204/screenshots/6858469/dribbble_29.07_.png" height="49%" width="49%">
@@ -291,8 +290,8 @@ Click on Category name to directly skip to that Category<br>
 
   <hr>
 
-  ## Education
-  
+## Education
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/2146089/screenshots/11436820/media/6a2806fcd7609150b5ea1da4db433149.png" height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/962032/screenshots/11432796/media/b01b4366438e003b5c1452633f8911ed.png" height="49%" width="49%">
@@ -310,8 +309,8 @@ Click on Category name to directly skip to that Category<br>
   
   <hr>
 
-  ## Entertainment
-  
+## Entertainment
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/4859/screenshots/11420266/media/d798aa4732f9708950e701a7656ec8a1.png"  height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/1726280/screenshots/11432145/media/b29c67fdd7b99247a02e61fb2f270359.jpg" height="49%" width="49%">
@@ -324,18 +323,24 @@ Click on Category name to directly skip to that Category<br>
   
   <hr>
 
-  ## Events
-  
+## Events
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/2017098/screenshots/7374953/media/a8ad9999143f13963b52f588df04c8c7.png" height="49%" width="49%">
   <a href="https://dribbble.com/shots/6529420-FootPlace-Schedule-New-Event/attachments">
   <img src="https://cdn.dribbble.com/users/918572/screenshots/6529420/footbollchik_4x.png?compress=1&resize=800x600" height="49%" width="49%"></a>
   </p>
 
+  <p float="left">
+  <a href="https://dribbble.com/shots/6792614-Concert-App-UI/attachments">
+  <img src="https://cdn.dribbble.com/users/369497/screenshots/6792614/2019-010_4x.png?compress=1&resize=800x600" height="49%" width="49%">
+  </a>
+  </p>
+
   <hr>
 
-  ## Finance
-  
+## Finance
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/1333371/screenshots/11444807/media/cf61982be23b047cb755d4e6391f4858.jpg" height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/1810466/screenshots/11416444/media/a72810eb50b19e688f3553c155611ba0.png" height="49%" width="49%">
@@ -358,8 +363,8 @@ Click on Category name to directly skip to that Category<br>
   
   <hr>
 
-  ## Food and Drink
-  
+## Food and Drink
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/584216/screenshots/11434381/media/4e74882d06665362bf09c1b1a1b6e2f2.png" height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/2472186/screenshots/11431740/media/3417bdd35951a64855a8d31ff9a26f41.png" height="49%" width="49%">
@@ -377,8 +382,8 @@ Click on Category name to directly skip to that Category<br>
   
   <hr>
 
-  ## Health and Fitness
-  
+## Health and Fitness
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/110372/screenshots/11433553/media/9b94cfa1c261a114a51437f2ed8496d7.png"  height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/4801636/screenshots/11426683/media/265f480dbd933dcf9cb7d05dffd688f7.png" height="49%" width="49%">
@@ -386,8 +391,8 @@ Click on Category name to directly skip to that Category<br>
 
   <hr>
 
-  ## House and Home
-  
+## House and Home
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/915817/screenshots/11444184/media/f03fef5b57320a2f38432220430391d4.png"  height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/3949873/screenshots/11437629/media/27a4a892c14ade07d8b7c28382b0e4ba.png" height="49%" width="49%">
@@ -400,8 +405,8 @@ Click on Category name to directly skip to that Category<br>
 
   <hr>
 
-  ## Libraries and Demo
-  
+## Libraries and Demo
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/1863078/screenshots/10172217/media/f251e977b6e65299adfc0197fbe1308c.png" height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/2153809/screenshots/6491185/day14-library_app.png" height="49%" width="49%">
@@ -409,8 +414,8 @@ Click on Category name to directly skip to that Category<br>
 
   <hr>
 
-  ## Lifestyle
-  
+## Lifestyle
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/1454669/screenshots/11424463/media/a6230aa7aea2ab2a21c9062a4c2179fd.png" height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/2117939/screenshots/7570048/media/57aed1302b0dbb615f85b0a12379be6c.png" height="49%" width="49%">
@@ -418,8 +423,8 @@ Click on Category name to directly skip to that Category<br>
   
   <hr>
 
-  ## Maps and Navigation
-  
+## Maps and Navigation
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/2399102/screenshots/6645932/google-map-redesign_v2__2_.jpg" height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/112840/screenshots/7024230/media/4f96e4b46c71dee70d49e805bb886678.png" height="49%" width="49%">
@@ -427,8 +432,8 @@ Click on Category name to directly skip to that Category<br>
   
   <hr>
 
-  ## Medical
-    
+## Medical
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/2959458/screenshots/11179642/media/f0de26cca199ac49bd953e288b84afcb.jpg"  height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/758684/screenshots/10769817/media/f4576ba0fb4709ed57b95c3dcffde922.jpg" height="49%" width="49%">
@@ -441,8 +446,8 @@ Click on Category name to directly skip to that Category<br>
   
   <hr>
 
-  ## Music and Audio
-  
+## Music and Audio
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/1343196/screenshots/11442028/media/6363208a7677dafaa23bc695e42b7936.png" height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/1080850/screenshots/11416888/media/cc0d6d0437675932f1844d840c3a0413.png" height="49%" width="49%">
@@ -460,7 +465,7 @@ Click on Category name to directly skip to that Category<br>
 
   <hr>
 
-  ## News and Magazines
+## News and Magazines
 
   <p float="left">
   <a href="https://dribbble.com/shots/9513371-Gator-mobile-news-app/attachments/1539042?mode=media">
@@ -481,7 +486,8 @@ Click on Category name to directly skip to that Category<br>
 
   <hr>
 
-  ## Parenting
+## Parenting
+
   <p float="left">
   <a href="https://dribbble.com/shots/2036651-Kids2School-Apps-Concept">
   <img src="https://cdn.dribbble.com/users/167041/screenshots/2036651/htc_one_mockup.png" height="49%" width="49%"/>
@@ -491,13 +497,12 @@ Click on Category name to directly skip to that Category<br>
   </a>
   </p>
 
-  ## Personalization
-  
+## Personalization
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/3620707/screenshots/10011242/gif_export.gif" height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/308480/screenshots/2197810/firefly800.gif" height="49%" width="49%">
   </p>
-  
 
   <p float="left">
   <a href="https://dribbble.com/shots/4343539-Concept-Design">
@@ -510,8 +515,8 @@ Click on Category name to directly skip to that Category<br>
 
   <hr>
 
-  ## Photography
-  
+## Photography
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/5261198/screenshots/11499940/media/ff5e54953c28625a2e0454d5fe3784af.png" height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/1998993/screenshots/8970542/media/e6920d4fc9e1f0e68ecc2fedb4d8bfb7.png" height="49%" width="49%">
@@ -537,8 +542,8 @@ Click on Category name to directly skip to that Category<br>
 
   <hr>
 
-  ## Productivity
-  
+## Productivity
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/1788965/screenshots/11417389/media/ed3090853fa3e03375212e27eef63243.png" height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/3429790/screenshots/11483935/media/849f6ddc33127d76171e468d709cde2b.png" height="49%" width=49%">
@@ -553,11 +558,10 @@ Click on Category name to directly skip to that Category<br>
   </a>
   </p>
 
-
   <hr>
 
-  ## Shopping
-  
+## Shopping
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/2461751/screenshots/11431532/media/ea8130287e3561e0325788b545c81c02.png" height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/2461751/screenshots/11431532/media/8bbc58e69c36cca86069177544334fb5.png" height="49%" width="49%">
@@ -585,8 +589,8 @@ Click on Category name to directly skip to that Category<br>
 
   <hr>
 
-  ## Social
-  
+## Social
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/310943/screenshots/11416015/media/10f64ed22538ab13cfbac00070c044d6.png"  height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/4271438/screenshots/11437682/media/d2e2ecf1e1ccbe68afb285b8570346d7.png" height="49%" width="49%">
@@ -594,8 +598,8 @@ Click on Category name to directly skip to that Category<br>
 
   <hr>
 
-  ## Sports
-  
+## Sports
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/4189231/screenshots/9834834/media/afc87b29367d6a68c780175bd80fff24.png" height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/960843/screenshots/10527118/media/76f1d3ae62ec84cadb2c6a48e3aa2263.jpg" height="49%" width="49%">
@@ -621,8 +625,8 @@ Click on Category name to directly skip to that Category<br>
 
   <hr>
 
-  ## Tools
-  
+## Tools
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/4110200/screenshots/11416582/media/0425353703c34881c4e3dc46d521bbaf.png"  height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/1677049/screenshots/11438183/media/286f937a137b90d3152dec8b80ac62b4.jpg" height="49%" width="49%">
@@ -635,8 +639,8 @@ Click on Category name to directly skip to that Category<br>
 
   <hr>
 
-  ## Travel and Local
-  
+## Travel and Local
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/915817/screenshots/11424144/media/61d8d07315209af454e9f493ad73817e.png"  height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/380831/screenshots/11433770/media/00fb36b882fb175e72b4ceb1c0fc3e01.png" height="49%" width="49%">
@@ -644,8 +648,8 @@ Click on Category name to directly skip to that Category<br>
 
   <hr>
 
-  ## Video Players and Editors
-  
+## Video Players and Editors
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/2399102/screenshots/6682768/video-editing-app_4x.jpg"  height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/103962/screenshots/5540105/slidelab_1_4x.png" height="49%" width="49%">
@@ -658,8 +662,8 @@ Click on Category name to directly skip to that Category<br>
 
   <hr>
 
-  ## Weather
-  
+## Weather
+
   <p float="left">
   <img src="https://cdn.dribbble.com/users/498270/screenshots/11435940/media/e07211b33eaf38547b014277c184614f.jpg"  height="49%" width="49%">
   <img src="https://cdn.dribbble.com/users/3681220/screenshots/7119800/media/e6b22b74932fe92606ad502441a180e0.png" height="49%" width="49%">
@@ -674,7 +678,6 @@ Click on Category name to directly skip to that Category<br>
 
 ## Contributors
 
-
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -687,22 +690,27 @@ Click on Category name to directly skip to that Category<br>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ## Contributing
+
 In lieu of a formal styleguide, take care to maintain the existing style of this list.
 
-* Fork this repository.
-* Add designs/links (Don't forget to backlink to the author's work)
-* Comment on Issue or Pull Request, asking @all-contributors to add a contributor:
-  * @all-contributors please add \<username> for \<contributions>
-  * \<contribution>: See the [Emoji Key (Contribution Types Reference)](https://allcontributors.org/docs/en/emoji-key) for a list of valid contribution types.
-  
+- Fork this repository.
+- Add designs/links (Don't forget to backlink to the author's work)
+- Comment on Issue or Pull Request, asking @all-contributors to add a contributor:
+
+  - @all-contributors please add \<username> for \<contributions>
+  - \<contribution>: See the [Emoji Key (Contribution Types Reference)](https://allcontributors.org/docs/en/emoji-key) for a list of valid contribution types.
 
 ## Sources
-* [Dribbble](https://dribbble.com/)
-* [Behance](https://www.behance.net/)
+
+- [Dribbble](https://dribbble.com/)
+- [Behance](https://www.behance.net/)
 
 ## Disclaimer
+
 All the above works belong to their respective creators and owners. I don't take ownership of any of these designs nor aim to make monetary benefit from it. <br>If you are the author/know the author, request for credits and we'll be more than happy to link to your original work.
 
 Cheers!
